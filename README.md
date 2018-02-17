@@ -8,4 +8,4 @@ References for the libraries in the literature are:
 
 [2] M Bernhard, AE Zautner, J Steinmann, M Weig, U Groß, and O Bader (2016). Towards proteomic species barcoding of fungi: An example using Scedosporium/Pseudallescheria complex isolates. Fungal Biology 120(2):162-5.
 
-[3] M Bernhard et al. CryptoType. (manuscript in prepration)
+[3] M Bernhard et al. CryptoType. (manuscript in prepration, datasets to follow on manuscript publication)
